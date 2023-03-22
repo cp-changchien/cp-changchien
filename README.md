@@ -1,7 +1,7 @@
 <h1 align="center">Cooper.</h1>
 
 <h3 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Aerospace+Engineering+Undergrad;Deep+Learning+Enjoyer;Maker+of+Rockets;Always%20learning%20cool%20stuff&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Researcher+Plasma Propulsion+Researcher;Learning+Quantitative+Trading;Extra+Shots+of+Espresso;Always%20learning%20cool%20stuff&center=true&width=500&height=50"></a>
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cp-chang-chien&label=Profile%20views&color=0e75b6&style=flat" alt="cp-changchien" /> </p>

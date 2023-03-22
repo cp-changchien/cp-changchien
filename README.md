@@ -1,11 +1,12 @@
 <h1 align="center">Cooper.</h1>
 <!-- <h3 align="center">On a strict diet of extra shot espresso.</h3> -->
 <h3 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Plasma Propulsion Researcher;Quantitative Trading;Maker+of+Rockets&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Plasma Propulsion Researcher;Quantitative Trading;Maker+of+Rockets"></a>
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cp-chang-chien&label=Profile%20views&color=0e75b6&style=flat" alt="cp-changchien" /> </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cp-changchien&show_icons=true&theme=dark&locale=en" alt="cp-changchien" /></p>
 
 <br />
 
@@ -20,7 +21,7 @@ My last week in code!
 <!--START_SECTION:waka-->
 
 ```text
-Python   23 hrs 8 mins   █████████████████████████   99.89 %
+C++      23 hrs 8 mins   █████████████████████████   99.89 %
 Other    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 

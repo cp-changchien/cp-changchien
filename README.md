@@ -1,7 +1,9 @@
 <h1 align="center">Cooper.</h1>
 
+<h3 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Plasma+Propulsion+Researcher;Learning+Quantitative+Trading;Extra+Shots+Espresso+" alt="Typing SVG" /></a>
-
+</h3>
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cp-chang-chien&label=Profile%20views&color=0e75b6&style=flat" alt="cp-changchien" /> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cp-changchien&show_icons=true&theme=dark&locale=en" alt="cp-changchien" /></p>

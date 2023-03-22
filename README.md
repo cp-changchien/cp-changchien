@@ -1,7 +1,6 @@
 <h1 align="center">Cooper.</h1>
-<!-- <h3 align="center">On a strict diet of extra shot espresso.</h3> -->
 <h3 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Plasma Propulsion Researcher;Learning Quantitative Trading;Always%20learning%20cool%20stuff&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Plasma Propulsion Researcher;Learning Quantitative Trading;Extra%20Shot%20cEspresso%20&center=true&width=500&height=50"></a>
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cp-chang-chien&label=Profile%20views&color=0e75b6&style=flat" alt="cp-changchien" /> </p>
@@ -11,6 +10,7 @@
 
 ```c++
 class WhoAmI {
+
   private:
     std::string name;
     std::string uni;
@@ -23,6 +23,7 @@ class WhoAmI {
       this->uni = Imperial College London
       this->profession = Researcher in Plasma Propulsion
       this->age = 21;
+      
     }
 ```
 
@@ -32,7 +33,6 @@ class WhoAmI {
 - 🔭 I’m currently interested in **Quantitative Trading**
 
 - 🌱 Master's Thesis - **Development of hydrogen fueled cathode for Hall Effect Thruster**
-
 
 <br />
 

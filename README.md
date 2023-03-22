@@ -8,6 +8,7 @@
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cp-changchien&" alt="cp-changchien" />
 </div> 
 
+------------------------------------------------------
 
 - 🔭 I’m currently working on **High Performance Computing in C++**
 
@@ -15,6 +16,7 @@
 
 - 📫 How to reach me **cp.changchien@gmail.com**
 
+------------------------------------------------------
 
 
 <h3 align="left">Connect with me:</h3>

@@ -3,21 +3,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cp-changchien&label=Profile%20views&color=0e75b6&style=flat" alt="cp-changchien" /> </p>
 
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=cp-changchien&show_icons=true&theme=dark&locale=en" alt="cp-changchien" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cp-changchien&" alt="cp-changchien" />
-</div> 
+<p
+  <div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=cp-changchien&show_icons=true&theme=dark&locale=en" alt="cp-changchien" />
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cp-changchien&" alt="cp-changchien" />
+  </div> 
+</p>
 
 
 <br>
+---------------------------------------------------------
 
 - 🔭 I’m currently working on **High Performance Computing in C++**
 
 - 🌱 I’m currently learning **Quantitative Trading**
 
 - 📫 How to reach me **cp.changchien@gmail.com**
-- 
-<br>
+
+---------------------------------------------------------
 
 
 <h3 align="left">Connect with me:</h3>

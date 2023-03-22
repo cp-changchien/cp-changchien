@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cp-changchien&label=Profile%20views&color=0e75b6&style=flat" alt="cp-changchien" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cp-changchien" alt="cp-changchien" /></a> </p>
-
 - 🔭 I’m currently working on **High Performance Computing in C++**
 
 - 🌱 I’m currently learning **Quantitative Trading**

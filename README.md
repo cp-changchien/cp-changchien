@@ -1,4 +1,4 @@
-<h1 align="center">Cooper I Am</h1>
+<h1 align="center">Cooper:wave:</h1>
 
 <h3 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Plasma+Propulsion+Researcher;Learning+Quantitative+Trading;Extra+Shots+Espresso&center=true&width=500&height=50" alt="Typing SVG" /></a>

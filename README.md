@@ -14,13 +14,15 @@ class WhoAmI {
     std::string name;
     std::string uni;
     std::string profession;
+    std::future;
     int age;
   
   public:
-    Person(std::string name, std::string uni, std::string profession, int age) {
+    Person(std::string name, std::string uni, std::string profession, std::future, int age) {
       this->name = Cooper;
       this->uni = Imperial College London
       this->profession = Researcher in Plasma Propulsion
+      this->future = Quant Trader??
       this->age = 21;
       
     }

@@ -20,7 +20,7 @@ class WhoAmI {
     Person(std::string name, std::string uni, std::string project, int age) {
       this->name = Cooper;
       this->uni = Imperial College London
-      this->project = try unity game development
+      this->project = trying unity game development
       this->age = 22;
     }
 ```

@@ -1,7 +1,7 @@
 <h1 align="center">Cooper:wave:</h1>
 
 <h3 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Plasma+Propulsion+Researcher;Learning+Unity+Game+Development;Extra+Shots+Espresso&center=true&width=500&height=50" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Plasma+Propulsion+Researcher;Spacecraft+System+Engineer;Extra+Shots+Espresso&center=true&width=500&height=50" alt="Typing SVG" /></a>
 </h3>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cp-chang-chien&label=Profile%20views&color=0e75b6&style=flat" alt="cp-changchien" /> </p>
@@ -20,7 +20,7 @@ class WhoAmI {
     Person(std::string name, std::string uni, std::string project, int age) {
       this->name = Cooper;
       this->uni = Imperial College London
-      this->project = Orbit Design and System Eng
+      this->project = Orbit Design && System Eng
       this->age = 22;
     }
 ```
@@ -29,7 +29,7 @@ class WhoAmI {
 <br />
 
 
-- 🔭 I’m currently working on my Master's Thesis - **Development of hydrogen fueled cathode for Hall Effect Thruster**
+- 🔭 My Master's Thesis - **Development of hydrogen fueled cathode for Hall Effect Thruster**
 
 - 🌱 I’m currently learning **Quantitative Trading**
 

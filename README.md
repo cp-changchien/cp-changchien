@@ -17,10 +17,10 @@ class WhoAmI {
     int age;
   
   public:
-    Person(std::string name, std::string uni, std::string project, int age) {
+    WhoAmI(std::string name, std::string uni, std::string project, int age) {
       this->name = Cooper;
-      this->uni = Imperial College London
-      this->project = Orbit Design && System Eng
+      this->uni = Imperial_College_London
+      this->project = Orbit_Design && System_Eng
       this->age = 22;
     }
 ```

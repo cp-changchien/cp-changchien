@@ -26,17 +26,6 @@ class WhoAmI {
 ```
 
 
-<br />
-
-
-- 🔭 My Master's Thesis - **Development of hydrogen fueled cathode for Hall Effect Thruster**
-
-- 🌱 I’m currently learning **Quantitative Trading**
-
-- 📫 How to reach me **cp.changchien@gmail.com**
-
-
-<br />
 
 
 <h3 align="left">Connect with me:</h3>
